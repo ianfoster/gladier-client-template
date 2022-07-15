@@ -2,7 +2,7 @@
 
 ## Installing Gladier
 
-To run this tutorial we advise that a new python environment is created. For simplicity, we will use [miniconda](https://docs.conda.io/en/latest/miniconda.html).
+We advise creating a new Python environment to run this tutorial. For simplicity, we will use [miniconda](https://docs.conda.io/en/latest/miniconda.html):
 
     conda create -n gladier-test python pip
     conda activate gladier-test
